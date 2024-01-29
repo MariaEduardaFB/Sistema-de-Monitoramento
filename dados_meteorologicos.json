@@ -1,0 +1,2 @@
+{"coord":{"lon":-45,"lat":-15},"weather":[{"id":802,"main":"Clouds","description":"scattered clouds","icon":"03d"}],"base":"stations","main":{"temp":299.18,"feels_like":299.18,"temp_min":299.18,"temp_max":299.18,"pressure":1013,"humidity":75,"sea_level":1013,"grnd_level":932},"visibility":4641,"wind":{"speed":1.15,"deg":318,"gust":1.7},"clouds":{"all":34},"dt":1706556943,"sys":{"country":"BR","sunrise":1706518156,"sunset":1706564196},"timezone":-10800,"id":3460148,"name":"Janu�ria","cod":200}
+
